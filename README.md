@@ -1,2 +1,3 @@
 # hello-world
 My first repo
+Hi all! I am completely new to coding....
